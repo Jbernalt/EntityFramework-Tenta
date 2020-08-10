@@ -1,0 +1,1 @@
+Har använt eager loading i mina queries.
